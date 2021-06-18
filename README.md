@@ -11,7 +11,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <!-- <a href="https://twitter.com/maisankhahoon" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="maisankhahoon" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/sankhasubhra jana" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sankhasubhra jana" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/sankhasubhra-jana-483a2317b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sankhasubhra-jana-483a2317b" height="30" width="40" /></a>
 <a href="https://instagram.com/akio_hiroto" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="akio_hiroto" height="30" width="40" /></a>
 </p>
 
